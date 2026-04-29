@@ -34,7 +34,7 @@ Como responsável pelo hardware e firmware, atuei na:
   ### 📸 Demonstração do Hardware e Dashboard
 ![Circuito do Projeto](Midias/Hardware.jpeg)
 ![Interface do Dashboard](Midias/Software.jpeg)
-![Apresentação do Projeto](Midias/Apresentaçãodoprojeto.jpeg)
+![Apresentação do Projeto](Midias/Apresentacao-do-projeto.jpeg)
 
 
 
